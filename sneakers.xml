@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SneakersCatalogue>
+    <Sneakers>
+        <Manufacturer>Nike</Manufacturer>
+        <Country>China</Country>
+        <Model>AIR FOAMPOSITE PRO</Model>
+        <Size type="US">10</Size>
+        <Colors>Island Green/Island Green/Metallic Platinum</Colors>
+    </Sneakers>
+    <Sneakers>
+        <Manufacturer>Jordan</Manufacturer>
+        <Country>China</Country>
+        <Model>AIR JORDAN 4</Model>
+        <Size type="US">12</Size>
+        <Colors>Pures money</Colors>
+    </Sneakers>
+    <Sneakers>
+    <Manufacture>Jordan</Manufacture>
+    <Country>North America</Country>
+    <Model>AIR JORDAN 3</Model>
+    <Size US="12">10</Size>
+    <Colors>Wolf Grey</Colors>
+    </Sneakers>
+    <Sneakers>
+    <Manufacture>Jordan</Manufacture>
+    <Country>North America</Country>
+    <Model>AIR JORDAN 1</Model>
+    <Size US="12">10</Size>
+    <Colors>Bred</Colors>
+    </Sneakers>
+    <Sneakers>
+    <Manufacture>XXX</Manufacture>
+    <Country>North America</Country>
+    <Model>AIR JORDAN 1</Model>
+    <Size US="12">10</Size>
+    <Colors>Bred</Colors>
+    </Sneakers>
+</SneakersCatalogue>
